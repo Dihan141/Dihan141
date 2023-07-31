@@ -9,7 +9,7 @@ I am Rhidwan Rashid Dihan from Bangladesh. I am interested in backend developmen
 * 💻C++, C, Java
 * 🎮C#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dihan141&show_icons=true&theme=oneDark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dihan141&show_icons=true&theme=dark)
 <!---
 Dihan141/Dihan141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
