@@ -49,6 +49,14 @@
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=dihan141&show_icons=true&locale=en&theme=dark" alt="dihan141" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=dihan141&theme=dark" alt="dihan141" /></p>
+<a>
+  <a href="https://github.com/Dihan141">
+    <img src="https://github-readme-stats.vercel.app/api?username=dihan141&show_icons=true&locale=en&theme=dark" alt="dihan141" />
+  </a>
+  <a href="https://github.com/Dihan141">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihan141&theme=dark" alt="dihan141" />
+  </a>
+</a>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dihan141&show_icons=true&locale=en&layout=compact&theme=dark" alt="dihan141" /></p>
 
