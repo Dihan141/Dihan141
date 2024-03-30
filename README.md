@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dihan141&show_icons=true&locale=en&theme=dark" alt="dihan141" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dihan141&theme=dark" alt="dihan141" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dihan141&theme=dark" alt="dihan141" /></p>
 
 <h3>Activity:</h3>
 <p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=dihan141&theme=github-dark" alt="dihan141" /></p>
