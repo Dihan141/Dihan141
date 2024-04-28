@@ -48,7 +48,7 @@
 <p><img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=dihan141&show_icons=true&locale=en&bg_color=00000000" alt="dihan141" width="49%" height="260px" /><img src="https://streak-stats.demolab.com?user=dihan141&theme=transparent" alt="GitHub Streak" width="49%" height="260px"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=dihan141&show_icons=true&locale=en&bg_color=00000000" alt="dihan141" width="49%" height="260px" /> <img src="https://streak-stats.demolab.com?user=dihan141&theme=transparent" alt="GitHub Streak" width="49%" height="260px"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dihan141&show_icons=true&locale=en&layout=compact&theme=dark" alt="dihan141" /></p>
 
