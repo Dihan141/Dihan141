@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dihan141&label=Profile%20views&color=0e75b6&style=flat" alt="dihan141" /> </p>
 
-- 🌱 I’m currently learning **React-Native, firebase**
+- 🌱 I’m currently working on **React, NodeJs, MongoDB, ASP.NET CORE**
 
-- 💬 Ask me about **NodeJS, MongoDB, Data Structure and Algorithm**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rhidwanrashid@iut-dhaka.edu**
 
