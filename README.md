@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dihan</h1>
-<h3 align="center">A passionate problem solver and developer from Islamic University of Technology, Bangladesh</h3>
+<h3 align="center">Software Engineer with expertise in full-stack web development, database management, and API integration.
+ Passionate about solving problems and building scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dihan141&label=Profile%20views&color=0e75b6&style=flat" alt="dihan141" /> </p>
 
