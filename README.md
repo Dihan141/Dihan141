@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dihan141&label=Profile%20views&color=0e75b6&style=flat" alt="dihan141" /> </p>
 
-- 🌱 I’m currently working on **React, NodeJs, MongoDB, ASP.NET CORE**
+- 🌱 I’m currently working on **React, NodeJs, MongoDB**
 
 - 💬 Ask me about **Anything**
 
