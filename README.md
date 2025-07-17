@@ -2,13 +2,6 @@
 <h3 align="center">Software Engineer with expertise in full-stack web development, database management, and API integration.
  Passionate about solving problems and building scalable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dihan141&label=Profile%20views&color=0e75b6&style=flat" alt="dihan141" /> </p>
-
-- 🌱 I’m currently working on **React, NodeJs, MongoDB**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **rhidwanrashid@iut-dhaka.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
