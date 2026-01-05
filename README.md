@@ -42,10 +42,12 @@
 <p><img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dihan141&show_icons=true&locale=en&bg_color=00000000" alt="dihan141 stats" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dihan141&show_icons=true&locale=en&langs_count=10&layout=compact&theme=transparent" alt="dihan141 top langs" height="250" />
+<p>
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=Dihan141&theme=radical&show_icons=true&card_width=1100&hide_border=true" alt="dihan141 stats"/>
+</p>
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dihan141&hide=c%23,shaderlab&theme=radical&card_width=1100&hide_border=true" alt="dihan141 top langs"/>
 </p>
 
 <h3>Activity:</h3>
-<p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=dihan141&theme=github-dark" alt="dihan141" /></p>
+<p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=dihan141&theme=github-compact&bg_color=141321&title_color=fe428e&line=f1e05a&color=a9fef7&hide_border=true" alt="dihan141" /></p>
