@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dihan</h1>
-<h3 align="center">Software Engineer with expertise in full-stack web development, database management, and API integration.
+<h3 align="center">Software Engineer with expertise in backend development, database management, and API integration.
  Passionate about solving problems and building scalable solutions.</h3>
 
 
